@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laboratorio_paraguas.Sistema" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABEgAAAAAAAAAAgAAAAAAAAAAAIAAAAAEgAAAAgIAA=</HashCode>
+      <FileName>Sistema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorio_paraguas.Sucursal" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAgQAEAAAAAAIIAgAAAAAAAAAIAAAAAEABRASgAAA=</HashCode>
+      <FileName>Sucursal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorio_paraguas.Medicamento" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAAABAAAAAAABAAAAAAAAAAEAAABAAAAAABAI=</HashCode>
+      <FileName>Medicamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorio_paraguas.Vacuna" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAACAAAAIAAAAA=</HashCode>
+      <FileName>Vacuna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorio_paraguas.Virus" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Virus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Laboratorio_paraguas.Designation" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEEBAAAA=</HashCode>
+      <FileName>Medicamento.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
