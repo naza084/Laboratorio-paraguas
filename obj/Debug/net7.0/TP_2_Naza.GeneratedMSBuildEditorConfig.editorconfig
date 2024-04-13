@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP_2_Naza
-build_property.ProjectDir = C:\Users\PC\OneDrive\Programacion\Neoris\TP_2_Naza\TP_2_Naza\
+build_property.ProjectDir = C:\Users\PC\OneDrive\Programacion\Bootcamps\Neoris\TP_2_Naza\TP_2_Naza\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_2_Naza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cc0f2d3b26babd6099bede90bf0262c8a8e8389")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_2_Naza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_2_Naza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
